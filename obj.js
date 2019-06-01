@@ -1,5 +1,5 @@
 {
   naem: "Abdelnaem Atia",
   age: 22,
-  from: egypt
+  from: "egypt"
 }
